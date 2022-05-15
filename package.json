@@ -1,0 +1,30 @@
+{
+  "name": "computer_assembly",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "gulp build",
+    "start": "gulp"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.4",
+    "browser-sync": "^2.27.5",
+    "build": "^0.1.4",
+    "del": "^6.0.0",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^8.0.0",
+    "gulp-build": "^0.5.3",
+    "gulp-concat": "^2.6.1",
+    "gulp-gh-pages": "^0.5.4",
+    "gulp-image": "^6.2.1",
+    "gulp-sass": "^5.0.0",
+    "gulp-start": "^1.0.1",
+    "gulp-uglify-es": "^3.0.0",
+    "sass": "^1.41.1",
+    "start": "^5.1.0"
+  }
+}
